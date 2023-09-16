@@ -1,6 +1,8 @@
 .Nav-Item {
   padding: 5px;
-  border-radius: 5px;
+  border-radius: 5px; 
+  display: flex;
+  column-gap: 5px;
 }
 
 .Nav-Item:hover {

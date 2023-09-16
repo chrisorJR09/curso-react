@@ -2,3 +2,8 @@
   max-width: 200px;
   border-right: 1px solid gray;
 }
+
+.Nav-Title{
+  font-size: 2.5rem;
+  font-family: Galada, Arial, Helvetica, sans-serif;
+}
